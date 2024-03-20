@@ -170,6 +170,8 @@ Parse URL
 
     - ``Protocol``  "http"
         Use 'Hyper Text Transfer Protocol'
+   #NOTE: We also have "https"
+         'Hyper Text Transfer Protocol Secure' (highly noted for its advanced security)
 
     - ``Resource``  "/"
         Retrieve main (index) page
